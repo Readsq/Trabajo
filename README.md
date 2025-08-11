@@ -1,0 +1,27 @@
+
+<html lang="es">
+ <head>
+  <meta charset="UTF-8">
+  Mi Cuaderno Digital
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <header>
+   <h1>Cuaderno de Clase</h1>
+   <p>Trabajos realizados durante el año</p>
+  </header>
+  <main>
+   <nav>
+    <ul>
+     <li><a href="trabajo1.html">Trabajo 1: Cuento La Floresta</a></li>
+     <li><a href="trabajo2.html">Trabajo 2: Creación del avatar en Heygen</a></li>
+     <li><a href="trabajo3.html">Trabajo 3: Presentación sobre ciudadanía digital</a></li>
+     <li><a href="trabajo4.html">Trabajo 4: Primera página web escribiendo HTML</a></li>
+    </ul>
+   </nav>
+  </main>
+  <footer>
+   <p>© 2025 - Mi Cuaderno de Clase</p>
+  </footer>
+ </body>
+</html>

@@ -14,7 +14,8 @@
    <nav>
     <ul>
      <li><a href="trabajo1.html">Trabajo 1: Cuento La Floresta</a></li>
-     <li><a href="trabajo2.html">Trabajo 2: Creación del avatar en Heygen</a></li>
+     <li><a <h1>nose
+      href="trabajo2.html">Trabajo 2: Creación del avatar en Heygen</a></li>
      <li><a href="trabajo3.html">Trabajo 3: Presentación sobre ciudadanía digital</a></li>
      <li><a href="trabajo4.html">Trabajo 4: Primera página web escribiendo HTML</a></li>
     </ul>
